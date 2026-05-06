@@ -3,4 +3,4 @@ export const TAGLINE = "Standardized Padel Player Assessment System"
 export const VERSION = "1.0"
 
 // Replace with your scoring app's Netlify URL
-export const APP_URL = "https://padel-iq-app.netlify.app";
+export const APP_URL = "https://padeliqv2.netlify.app";
